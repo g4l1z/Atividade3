@@ -1,3 +1,5 @@
 Este é o arquivo 1.
 
 Movendo o arquivo 1 para a pasta.
+
+Arquivo 1 alterado localmente.
